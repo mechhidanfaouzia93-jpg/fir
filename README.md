@@ -1,3 +1,3 @@
 # fir
 
-coco , il faut que je finisse les deux exercice.
+coco , il faut que je finisse les deux exercices.
